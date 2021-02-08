@@ -1,0 +1,3 @@
+# Ventilator AN/AUS
+00 09 * * * python /home/pi/RelaisViaVentilatorGPIO18_ON.py # JOB_ID_01
+00 11 * * * python /home/pi/RelaisViaVentilatorGPIO18_OFF.py # JOB_ID_02
