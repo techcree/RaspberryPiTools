@@ -1,0 +1,26 @@
+# Raspberry Pi 3 & 4 Pin Overview by StSkanta (TechCree)
+# Enter an "X" for your occupied pins
+#
+# 3.3V DC   [ ]  (1)                (40)  [ ]   5V DC
+# GPIO02    [ ]  (2)                (39)  [ ]   5V DC
+# GPIO03    [ ]  (3)                (38)  [ ]   GDN
+# GPIO04    [ ]  (4)                (37)  [ ]   GPIO14
+# GND       [ ]  (5)                (36)  [ ]   GPIO15
+# GPIO17    [ ]  (6)                (35)  [ ]   GPIO18
+# GPIO27    [ ]  (7)                (34)  [ ]   GND
+# GPIO22    [ ]  (8)                (33)  [ ]   GPIO23
+# 3.3V DC   [ ]  (9)                (32)  [ ]   GPIO24
+# GPIO10    [ ]  (10)               (31)  [ ]   GND
+# GPIO09    [ ]  (11)               (30)  [ ]   GPIO25
+# GPIO11    [ ]  (12)               (29)  [ ]   GPIO08  
+# GND       [ ]  (13)               (28)  [ ]   GPIO07
+# ID_SD     [ ]  (14)               (27)  [ ]   ID_SC
+# GPIO05    [ ]  (15)               (26)  [ ]   GND
+# GPIO06    [ ]  (16)               (25)  [ ]   GPIO12
+# GPIO13    [ ]  (17)               (24)  [ ]   GND
+# GPIO19    [ ]  (18)               (23)  [ ]   GPIO16
+# GPIO26    [ ]  (19)               (22)  [ ]   GPIO20
+# GND       [ ]  (20)               (21)  [ ]   GPIO21
+#
+#
+#
